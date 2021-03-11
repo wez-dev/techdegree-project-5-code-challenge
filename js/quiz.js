@@ -48,7 +48,7 @@ let questionThree = prompt(`True or false:
 ( 6 >= 10 && 6 <= 10 )`);
 
 let questionFour = prompt(`True or false:
-( 4 > 3 || 1 > 3 )`);
+( 3 > 4 || 1 > 3 )`);
 
 let questionFive = prompt(`True or false:
 Javascript is a server side language`);
